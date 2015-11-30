@@ -2,7 +2,13 @@
 
 If you want to prevent your script from running in parallel just instantiate SingleInstance() class. 
 
-Usage:
+
+## Installation
+
+	pip install ytsingleton
+
+
+## Usage
 
 ```
 from ytsingleton import SingleInstance 
